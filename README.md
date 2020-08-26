@@ -8,7 +8,7 @@ Il cubo protagonista non potra uscire dalla stanza e ci saranno dei cubi grigi, 
 I cubi nemici sparano in una direzione fissa, se toccano il tuo cubo perdi una vita, ci sara una ui per vedere la vita.
 
 # Asset
-* cubo_blu + animazione
+* cubo_ocra + animazione
 * cubo_verde
 * cubo_rosso
 * ui_vita
