@@ -1,6 +1,4 @@
-﻿using System.Collections;
-using System.Collections.Generic;
-using UnityEngine;
+﻿using UnityEngine;
 
 public class PlayerMovement : MonoBehaviour
 {
@@ -21,8 +19,10 @@ public class PlayerMovement : MonoBehaviour
         change.x = Input.GetAxisRaw("Horizontal");
         change.y = Input.GetAxisRaw("Vertical");
         //Debug.Log(change);s
-        if (change != Vector3.zero) { MoveCharacter(); }
-
+        if (change != Vector3.zero)
+        {
+            MoveCharacter();
+        }
     }
 
     void MoveCharacter()
