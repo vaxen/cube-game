@@ -3,7 +3,7 @@
 public class Bullet : MonoBehaviour
 {
 
-    [SerializeField] private float timeToDie;
+    public float timeToDie;
 
     private void OnCollisionEnter2D(Collision2D collision)
     {
