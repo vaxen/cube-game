@@ -7,6 +7,7 @@
         <e p="Scripts" t="Include">
           <e p="Bullet.cs" t="Include" />
           <e p="BulletGenerator.cs" t="Include" />
+          <e p="EnemyMove.cs" t="Include" />
           <e p="PlayerMovement.cs" t="Include" />
         </e>
       </e>

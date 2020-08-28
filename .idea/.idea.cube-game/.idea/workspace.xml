@@ -36,10 +36,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6b788806-7066-41ff-8648-e61c1a13a4ed" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Assets/Prefabs/EnemyRed.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Prefabs/EnemyRed.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/EnemyMove.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/EnemyMove.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.cube-game/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.cube-game/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.cube-game/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.cube-game/.idea/indexLayout.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.cube-game/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.cube-game/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Objects.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Objects.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Objects/Bullet.prefab.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Objects/Bullet.prefab.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/cubo_rosso.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Art/cubo_rosso.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/cubo_verde.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Art/cubo_verde.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Bullet.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Bullet.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/BulletGenerator.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/BulletGenerator.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/cube-game.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/cube-game.unity" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,9 +67,10 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Assets/Scripts/BulletGenerator.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/PlayerMovement.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/BulletGenerator.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Bullet.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/EnemyMove.cs" />
       </list>
     </option>
   </component>
@@ -130,6 +139,7 @@
       <workItem from="1598533765951" duration="128000" />
       <workItem from="1598533929826" duration="4245000" />
       <workItem from="1598572111261" duration="576000" />
+      <workItem from="1598609855255" duration="1521000" />
     </task>
     <servers />
   </component>
