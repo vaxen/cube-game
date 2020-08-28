@@ -1,13 +1,12 @@
-﻿#pragma warning disable 649
-using UnityEngine;
+﻿using UnityEngine;
 
 public class BulletGenerator : MonoBehaviour
 {
-    [SerializeField] private Transform bulletGenerator;
+    public Transform bulletGenerator;
 
-    [SerializeField] private GameObject bullet;
+    public GameObject bullet;
 
-    [SerializeField] private float bulletSpeed;
+    public float bulletSpeed;
 
     private Vector2 lookDirection;
     private Vector2 mousePos;
