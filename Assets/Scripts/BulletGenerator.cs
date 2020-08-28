@@ -1,22 +1,17 @@
-﻿using System.Collections;
-using System.Collections.Generic;
+﻿#pragma warning disable 649
 using UnityEngine;
-using UnityEngine.UIElements;
 
 public class BulletGenerator : MonoBehaviour
-{    
-    [SerializeField]
-    private Transform bulletGenerator;
-    
-    [SerializeField]
-    private GameObject bullet;
-    
-    [SerializeField]
-    private float bulletSpeed;
-    
+{
+    [SerializeField] private Transform bulletGenerator;
+
+    [SerializeField] private GameObject bullet;
+
+    [SerializeField] private float bulletSpeed;
+
     private Vector2 lookDirection;
     private Vector2 mousePos;
-    
+
     private float lookAngle;
 
     // Update is called once per frame
